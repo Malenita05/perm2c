@@ -9,7 +9,7 @@
 <h3>¿Que use?</h3>
 <p>Use una lista de listas(matriz) y  funciones que retornaron valores enteros y buleanos</p>
 <h3>¿Cómo funciona?</h3>
-<p>El programa empieza imprimiendo el tablero de juego, luego pide al jugador 1 o 2 dependiendo el turno 2 coordenadas, la de la posición actual de la ficha y la posición a la cual se desea mover esa pieza, siempre en formato ¨AA01¨ y luego se vuelve a imprimir el tablero con el movimiento realizado, y en este caso es turno del siguiente jugador</p>
+<p>El programa empieza imprimiendo el tablero de juego, luego pide al jugador 1 o 2 dependiendo el turno 2 coordenadas, la de la posición actual de la ficha y la posición a la cual se desea mover esa pieza, siempre en formato ¨AA01¨ y luego se vuelve a imprimir el tablero con el movimiento realizado, y en este caso es turno del siguiente jugador, para realizar el movimiento se evalua el tipo de ficha y los movimientos que esta tienen permitidos dentro de otra funcion</p>
 <h3>Ejemplo:</h3>
 
 <p>||||||||||||||||||||||||||Bienvenidos al juego de Aledrez|||||||||||||||||||||||||</p>
